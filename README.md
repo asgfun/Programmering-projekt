@@ -1,3 +1,9 @@
 # Programmering-projekt
-I mit projekt vil jeg lave et snake spil.
-Mit snake spil skal til at starte med bare være det helt basis snake spil. Derudover vil jeg prøve at bygge videre på snake spillet hvis der er tid og mulighed for det. Men primært skal jeg bare lave et basis snake spil som skal være fuldt funktionsdygtigt og hvis der er tid til mere vil jeg lave nogen features til mit spil.
+Jeg har valgt at lave en lommeregner. Min lommeregner skal have et pænt design og være funktions dygtig.
+
+# Log
+Jeg har i dag undersøgt hvordan man opsætter en lommeregner.
+
+Jeg er nu begyndt at bygge min lommeregner. Jeg startede med at lave mit design til lommeregneren og mere er jeg ikke nået.
+
+Nu er jeg gået i gang med at få lommeregneren til at fungere så man faktisk kan bruge den til noget. Dette er dog lidt kompliceret og der skal bruges noget tid på det.
